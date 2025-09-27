@@ -14,11 +14,11 @@ Education
 * Ph.D Student in Jurisprudence and Social Policy, Berkeley Law, (present)
 * M.A. in Political Science, California State University, Long Beach 2023
 * B.A. in Political Science, California State University, Long Beach 2019
-======
+
 Research Interests
 ======
 * Law and Society; Legal Mobilization; Social Movements; Populism; Queer & Postmodern Legal Thoery 
-======
+
 Co-Publications
 ======
 * Kathryn J. Perkins, Grant Harting, and Evelyn Ortiz Soto. 2022. “A Right to Transition? Gender-Segregated Spaces and
@@ -42,7 +42,7 @@ Recent Teaching experience
   * Long-Term Sub for 4th Grade Special Education Class 
   * Teacher for Adult Transition Program during the academic year and summer school.
   * Daily Sub for Benton Middle School
-======
+
 Recent Courses I've Taken
 ======
 * Computational Social Science, Sociology Dept. 
