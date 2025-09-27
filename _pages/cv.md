@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student in Jurisprudence and Social Policy, Berkeley Law, (present)
+* M.A. in Political Science, California State University, Long Beach 2023
+* B.A. in Political Science, California State University, Long Beach 2019
+======
+Research Interests
+======
+* Law and Society; Legal Mobilization; Social Movements; Populism; Queer & Postmodern Legal Thoery 
+======
+Co-Publications
+======
+* Kathryn J. Perkins, Grant Harting, and Evelyn Ortiz Soto. 2022. “A Right to Transition? Gender-Segregated Spaces and
+the Legal Construction of Transgender Identity”. Transgender Studies Quarterly. 9(4), 609-633. DOI: 10.1215/23289252-
+10133817
+* Kathryn J. Perkins and Evelyn Ortiz Soto 2022. “What’s on the Gay (Legal) Agenda? An Analysis of Press Releases
+from LGBT Legal Advocacy Organizations, 2010–2019”. Journal of Homosexuality. 1-19.
+DOI:10.1080/00918369.2022.2116303
 
-Work experience
+Recent Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Graduate Student Instructor
+  * LS 136: Laws and Rights in Authoritarian Regimes
+  * Lead GSI for Professor Rachel Stern
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: Reader
+  * GLOBAL 10B: Critical Issues in Global Studies
+  * Read and graded class materials for Professor Devin Leigh
+    
+* 2020 - 2024: Substitute Teacher
+  * Long-Term Sub for 4th Grade Special Education Class 
+  * Teacher for Adult Transition Program during the academic year and summer school.
+  * Daily Sub for Benton Middle School
+======
+Recent Courses I've Taken
+======
+* Computational Social Science, Sociology Dept. 
+* Foundation Seminar in the Sociology of Law, Jurisprudence and Social Policy Dept. 
+* Teaching Learning in Higher Education, Jurisprudence and Social Policy Dept. 
+* Foundations of Moral Philosophy, Jurisprudence and Social Policy Dept.
+* Quantitative Approaches to Law & Social Science, Jurisprudence and Social Policy Dept.
+* Criminal Justice Theory: Punishment (Abolition), Law & Society, Jurisprudence and Social Policy Dept.
+* Latin American Politics, Political Science Dept. 
+* Law and Politics Foundation Seminar, Jurisprudence and Social Policy Dept.
+  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
