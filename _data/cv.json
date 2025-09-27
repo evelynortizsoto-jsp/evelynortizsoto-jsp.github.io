@@ -1,16 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Evelyn Ortiz Soto ",
+    "email": "evelyn.ortizsoto@gmail.com",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+    "summary": "2nd Year PhD Student in Jurisprudence and Social Policy",
+    "location": "Berkeley Law School" 
     },
     "profiles": [
       {
